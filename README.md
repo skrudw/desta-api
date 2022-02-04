@@ -84,3 +84,8 @@ IsReloading()
 
 GetTickBase()
 
+-----------Register Function
+
+Syntax = client
+
+event_callback(string hook, void func)
