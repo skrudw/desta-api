@@ -1,4 +1,12 @@
 # desta-api
+-------------Hooks
+
+"paint"
+
+"create_move"
+
+"end_scene"
+
 -------------Render
 
 syntax = render
@@ -45,3 +53,34 @@ IsInGame()
 IsAlive()
 
 Maxclients()
+
+setviewangles()
+
+GetPlayerInfo()
+
+-----------EntityList
+
+syntax = entity
+
+IsAlive()
+
+IsScoped()
+
+CanFire()
+
+Name()
+
+VelocityVector()
+
+VelocityInt()
+
+ActiveWeapon()
+
+IsWeapon()
+
+EyePos()
+
+IsReloading()
+
+GetTickBase()
+
